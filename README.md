@@ -1,7 +1,7 @@
 # Build-an-LLM-From-Scratch
 A Learn-Along Style Repo to Help you Build your Very First LLM, train and test it
 
-<h2>Steps to Building our Very First LKLM From Scratch :slightly_smiling_face: </h2>
+<h2>Steps to Building our Very First LLM From Scratch :slightly_smiling_face: </h2>
 <p>This is a follow along style Github Repository. The aim of the Project is to enhance my own learning and help others learn too. Feel free to send in Pull Requests to make this Project even more better</p>
 
 <ul>
