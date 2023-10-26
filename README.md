@@ -1,4 +1,4 @@
-# Build-an-LLM-From-Scratch :slightly_smiling_face::slightly_smiling_face::slightly_smiling_face:
+# Build-an-LLM-From-Scratch :star_struck:
 A Learn-Along Style Repo to Help you Build your Very First LLM, train and test it
 
 <h2>Steps to Building our Very First LLM From Scratch :slightly_smiling_face: </h2>
